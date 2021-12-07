@@ -1,0 +1,17 @@
+PRESENTATION -- TIPS
+
+1. Start with Questions to answer or what I am researching
+2. Provide necessary information going into research (with source)
+   (Discuss background necessary for audience)
+3. Describe the methods of solving/exploring the problem
+4. Past research results, what has been said so far.
+   (Explain how results relate to why I am extending to my research)
+5. Note any important aspects of the project that needs particular 
+   attention.
+6. Re-iterate my proposal (what I am finding/hypothesizing).
+7. "Thank you for listening. Any questions?"
+
+PREPARE A THESIS STATEMENT - if can be
+
+* Provide Figures to help support frameworks and algorithms
+* Think about the audience. They might not know security and crypto
