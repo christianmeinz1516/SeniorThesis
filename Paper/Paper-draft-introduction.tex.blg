@@ -1,5 +1,0 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[1] Config.pm:314> INFO - Logfile is 'Paper-draft-introduction.tex.blg'
-[145] biber-MSWIN64:340> INFO - === 
-[611] Utils.pm:411> ERROR - Cannot find 'Paper-draft-introduction.tex.bcf'!
-[611] Biber.pm:132> INFO - ERRORS: 1
